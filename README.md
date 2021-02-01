@@ -1,5 +1,5 @@
 # Multiplicar Console App
-    ## Pasos importantes para que nuestro programa se ejecute correctamente:
+## Pasos importantes para que nuestro programa se ejecute correctamente:
     - instalar los node_modules `npm install`
 
 Este es un pequeño ejercició en el cual se crea un archivo con la tabla de multiplicar utilizando los comandos que se le den en la consola de node por ejemplo: `node app listar -b 20 -l 15`.
