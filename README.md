@@ -8,7 +8,7 @@ Este es un pequeño ejercició en el cual se crea un archivo con la tabla de mul
 ![Preview](https://user-images.githubusercontent.com/37966712/105644250-53260400-5e5a-11eb-8f7e-6a0577b218d1.png)
 
 
-## Opciones
+## Opciones 
 Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
